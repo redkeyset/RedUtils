@@ -2,6 +2,8 @@
 library测试
 
 
+https://jitpack.io
+
 [![](https://jitpack.io/v/redkeyset/RedUtils.svg)](https://jitpack.io/#redkeyset/RedUtils)
 
 Step 1. Add the JitPack repository to your build file
