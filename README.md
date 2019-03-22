@@ -1,7 +1,7 @@
 # RedUtils
 library测试
 
-
+https://github.com/redkeyset/RedUtils.git
 https://jitpack.io
 
 [![](https://jitpack.io/v/redkeyset/RedUtils.svg)](https://jitpack.io/#redkeyset/RedUtils)
