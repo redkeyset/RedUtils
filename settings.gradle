@@ -1,0 +1,2 @@
+include ':app', ':redutils'
+rootProject.name='RedUtils'
